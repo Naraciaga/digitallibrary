@@ -14,7 +14,7 @@ Berikut ini adalah koleksi yang dimiliki:
 7. [Sadewa & Rembulan](ebook/Sadewa & Rembulan by Berlin Wiga.pdf) - Berlin Wiga (2020)
 8. [Sepotong Hati yang Baru](ebook/Sepotong Hati yang Baru by Tere Liye.pdf) - Tere Liye (2012)
 9. [madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
-10. []() - ()
+10. [Habis Gelap terbitlah terang](ebook/Habis-Gelap-Terbitlah-Terang.pdf) - Kartini (1911)
 11. []() - ()
 
 
