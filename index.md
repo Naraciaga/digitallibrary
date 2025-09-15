@@ -15,7 +15,6 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Sepotong Hati yang Baru](ebook/Sepotong Hati yang Baru by Tere Liye.pdf) - Tere Liye (2012)
 9. [madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
 10. [Habis Gelap terbitlah terang](ebook/Habis-Gelap-Terbitlah-Terang.pdf) - Kartini (1911)
-11. []() - ()
-
+11. [resume vr Dr.tengku](ebook/resume vr.pdf) - Rafa Ahmad Fahrezi (13040123140037)
 
 *Powered by GitHub Pages*
