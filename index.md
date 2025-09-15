@@ -6,7 +6,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ## koleksi
 1.[Pangsit Chili Oil](ebook/Kewirausahaan_Rafa Ahmad Fahrezi_037.pdf) - Alucard dkk (2025)
-2.
 
 
 *Powered by GitHub Pages*
