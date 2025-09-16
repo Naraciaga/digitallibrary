@@ -16,5 +16,5 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
 10. [Habis Gelap terbitlah terang](ebook/Habis-Gelap-Terbitlah-Terang.pdf) - Kartini (1911)
 11. [resume vr Dr.tengku](ebook/resume vr.pdf) - Rafa Ahmad Fahrezi (13040123140037)
-
+11. [halaman1](webti/halaman1.html) 
 *Powered by GitHub Pages*
